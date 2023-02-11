@@ -1,0 +1,15 @@
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\bin\Debug\net7.0\Supersdvig.exe
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\bin\Debug\net7.0\Supersdvig.deps.json
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\bin\Debug\net7.0\Supersdvig.runtimeconfig.json
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\bin\Debug\net7.0\Supersdvig.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\bin\Debug\net7.0\Supersdvig.pdb
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\obj\Debug\net7.0\Supersdvig.csproj.AssemblyReference.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\obj\Debug\net7.0\Supersdvig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\obj\Debug\net7.0\Supersdvig.AssemblyInfoInputs.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\obj\Debug\net7.0\Supersdvig.AssemblyInfo.cs
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\obj\Debug\net7.0\Supersdvig.csproj.CoreCompileInputs.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\obj\Debug\net7.0\Supersdvig.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\obj\Debug\net7.0\refint\Supersdvig.dll
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\obj\Debug\net7.0\Supersdvig.pdb
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\obj\Debug\net7.0\Supersdvig.genruntimeconfig.cache
+C:\Users\iAleksus\Desktop\GB семинары\3 Знакомство с языками\C#\DZ-Seminar4\Supersdvig\obj\Debug\net7.0\ref\Supersdvig.dll
